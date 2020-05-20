@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow:/assets
+Disallow:/forms
+Disallow:/changelog.txt
+Disallow:/Readme.txt
+
+sitemap:
