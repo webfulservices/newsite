@@ -37,7 +37,7 @@
   <link href="boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="remixicon/remixicon.css" rel="stylesheet">
   <link href="line-awesome/css/line-awesome.min.css" rel="stylesheet">
-  <link href="owl.carousel/owl.carousel.min.css" rel="stylesheet">
+  <link href="owl.carousel.min.css" rel="stylesheet">
   <link href="venobox/venobox.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
