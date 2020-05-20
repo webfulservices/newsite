@@ -18,7 +18,7 @@
 
       <h1 class="logo"><a href="index.php">Webful</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+      <!-- <a href="index.html" class="logo"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
@@ -117,7 +117,7 @@
 
         <div class="row">
           <div class="col-md-6 d-flex align-items-stretch mt-4">
-            <div class="card" style='background-image: url("assets/img/our-values-1.jpg");'>
+            <div class="card" style='background-image: url("img/our-values-1.jpg");'>
               <div class="card-body">
                 <h5 class="card-title"><a href="">Our Mission</a></h5>
                 <p class="card-text">To offer high quality web services to our clients and give our best in a short period of time.</p>
@@ -126,7 +126,7 @@
           </div>
 
           <div class="col-md-6 d-flex align-items-stretch mt-4">
-            <div class="card" style='background-image: url("assets/img/our-values-3.jpg");'>
+            <div class="card" style='background-image: url("img/our-values-3.jpg");'>
               <div class="card-body">
                 <h5 class="card-title"><a href="">Our Vision</a></h5>
                 <p class="card-text">To fill the gap between digital people and the clients in need of such people.</p>
@@ -148,27 +148,27 @@
         <div class="row">
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/logo.png" class="img-fluid" alt="">
+            <img src="img/logo.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+            <img src="img/clients/client-2.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+            <img src="img/clients/client-3.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+            <img src="img/clients/client-4.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+            <img src="img/clients/client-5.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+            <img src="img/clients/client-6.png" class="img-fluid" alt="">
           </div>
 
         </div>
@@ -253,7 +253,7 @@
               Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+            <img src="img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
             <h3>Saul Goodman</h3>
             <h4>Ceo &amp; Founder</h4>
           </div>
@@ -264,7 +264,7 @@
               Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+            <img src="img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
             <h3>Sara Wilsson</h3>
             <h4>Designer</h4>
           </div>
@@ -275,7 +275,7 @@
               Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+            <img src="img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
             <h3>Jena Karlis</h3>
             <h4>Store Owner</h4>
           </div>
@@ -286,7 +286,7 @@
               Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+            <img src="img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
             <h3>Matt Brandon</h3>
             <h4>Freelancer</h4>
           </div>
@@ -297,7 +297,7 @@
               Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+            <img src="img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
             <h3>John Larson</h3>
             <h4>Entrepreneur</h4>
           </div>
@@ -339,41 +339,41 @@
         <div class="row portfolio-container">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/new/web_design.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="img/portfolio/new/web_design.jpeg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Web Design</h4>
-              <a href="assets/img/portfolio/new/web_design.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Web Design"><i class="bx bx-plus"></i></a>
+              <a href="img/portfolio/new/web_design.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Web Design"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.php" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/new/web_dev.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="img/portfolio/new/web_dev.jpeg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Web Development</h4>
               <!-- <p></p> -->
-              <a href="assets/img/portfolio/new/web_dev.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Web Development"><i class="bx bx-plus"></i></a>
+              <a href="img/portfolio/new/web_dev.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Web Development"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.php" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/new/app.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="img/portfolio/new/app.jpeg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Mobile App Development</h4>
               <!-- <p>App</p> -->
-              <a href="assets/img/portfolio/new/app.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Mobile App Development"><i class="bx bx-plus"></i></a>
+              <a href="img/portfolio/new/app.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Mobile App Development"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.php" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/new/wordpress.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="img/portfolio/new/wordpress.jpeg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Wordpress</h4>
               <!-- <p>Web</p> -->
-              <a href="assets/img/portfolio/new/wordpress.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Wordpress"><i class="bx bx-plus"></i></a>
+              <a href="img/portfolio/new/wordpress.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Wordpress"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.php" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -382,52 +382,52 @@
 
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/new/blog.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="img/portfolio/new/blog.jpeg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Blogs</h4>
               <p>We Make The Best Blogs</p>
-              <a href="assets/img/portfolio/new/blog.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Blogs"><i class="bx bx-plus"></i></a>
+              <a href="img/portfolio/new/blog.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Blogs"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.php" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/new/ecom2.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="img/portfolio/new/ecom2.jpeg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>E-commerce Sites</h4>
               <!-- <p>Card</p> -->
-              <a href="assets/img/portfolio/new/ecom2.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="E-commerce Sites"><i class="bx bx-plus"></i></a>
+              <a href="img/portfolio/new/ecom2.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="E-commerce Sites"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.php" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/new/graphic.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="img/portfolio/new/graphic.jpeg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Graphic Design</h4>
               <!-- <p>Card</p> -->
-              <a href="assets/img/portfolio/new/graphic.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Graphic Design"><i class="bx bx-plus"></i></a>
+              <a href="img/portfolio/new/graphic.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Graphic Design"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.php" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/new/languages.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="img/portfolio/new/languages.jpeg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Programming Languages</h4>
               <p>New and Scalable Technology</p>
-              <a href="assets/img/portfolio/new/languages.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Programming Languages"><i class="bx bx-plus"></i></a>
+              <a href="img/portfolio/new/languages.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Programming Languages"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.php" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/new/developer.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="img/portfolio/new/developer.jpeg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>The Best Workforce</h4>
               <p>We Write Beautiful Code</p>
-              <a href="assets/img/portfolio/new/developer.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="The Best Workforce"><i class="bx bx-plus"></i></a>
+              <a href="img/portfolio/new/developer.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="The Best Workforce"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.php" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -452,7 +452,7 @@
           <div class="col-lg-6 col-md-12 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/avatar3.png" class="img-fluid" alt="">
+                <img src="img/avatar3.png" class="img-fluid" alt="">
                 <div class="social">
                   <!-- <a href=""><i class="icofont-twitter"></i></a> -->
                   <a href="<?=ekom__facebook;?>"><i class="icofont-facebook"></i></a>
@@ -470,7 +470,7 @@
           <div class="col-lg-6 col-md-12 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/avatar2.png" class="img-fluid" alt="">
+                <img src="img/avatar2.png" class="img-fluid" alt="">
                 <div class="social">
                   <!-- <a href=""><i class="icofont-twitter"></i></a> -->
                   <a href="<?=dom__facebook;?>"><i class="icofont-facebook"></i></a>
@@ -488,7 +488,7 @@
           <!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="img/team/team-3.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -506,7 +506,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <img src="img/team/team-4.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>

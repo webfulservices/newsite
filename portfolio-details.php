@@ -9,7 +9,7 @@
 
       <h1 class="logo"><a href="index.php">Webful</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.html" class="logo"><img src="img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
@@ -49,9 +49,9 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/portfolio/new/templates/1.png" class="img-fluid" alt="">
-            <!-- <img src="assets/img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/portfolio-details-3.jpg" class="img-fluid" alt=""> -->
+            <img src="img/portfolio/new/templates/1.png" class="img-fluid" alt="">
+            <!-- <img src="img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
+            <img src="img/portfolio/portfolio-details-3.jpg" class="img-fluid" alt=""> -->
           </div>
 
           <div class="portfolio-info">
@@ -83,9 +83,9 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/portfolio/new/templates/2.png" class="img-fluid" alt="">
-            <!-- <img src="assets/img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/portfolio-details-3.jpg" class="img-fluid" alt=""> -->
+            <img src="img/portfolio/new/templates/2.png" class="img-fluid" alt="">
+            <!-- <img src="img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
+            <img src="img/portfolio/portfolio-details-3.jpg" class="img-fluid" alt=""> -->
           </div>
 
           <div class="portfolio-info">
@@ -113,9 +113,9 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/portfolio/new/templates/3.png" class="img-fluid" alt="">
-            <!-- <img src="assets/img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/portfolio-details-3.jpg" class="img-fluid" alt=""> -->
+            <img src="img/portfolio/new/templates/3.png" class="img-fluid" alt="">
+            <!-- <img src="img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
+            <img src="img/portfolio/portfolio-details-3.jpg" class="img-fluid" alt=""> -->
           </div>
 
           <div class="portfolio-info">
